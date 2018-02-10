@@ -1,5 +1,5 @@
 function greeter(person: String){
     return "Hello " + person;
 }
-let user = "Jane User";
-document.body.innerHTML = greeter(user);
+let user = [1, 2, 3];
+document.body.innerHTML = greeter();
